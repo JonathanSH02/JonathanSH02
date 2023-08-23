@@ -5,7 +5,6 @@ BODIA
 
 - 🔭 Estudando
 - 🌱 Busco aprender mais sobre essa vida de programador =p
-- 
 - 🤔 Qualquer ajuda e bem-vinda
 - 😄 Ele/Dele
 - ⚡ Jogo Genshin e Star rail
